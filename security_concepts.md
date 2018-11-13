@@ -1,4 +1,4 @@
-#Security concepts to go over
+# Security concepts to go over
 1. SSRF attack - Server Side Request Forgery
 1. "evil twin ap" attack
 1. rogue access point
